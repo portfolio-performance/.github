@@ -12,12 +12,12 @@ To learn more about Portfolio Performance, see <https://www.portfolio-performanc
 
 ## Get involved!
 
-You can join the fun by following our [contributing guide](https://github.com/buchen/portfolio/blob/master/CONTRIBUTING.md).
+You can join the fun by following our [contributing guide](https://github.com/portfolio-performance/portfolio/blob/master/CONTRIBUTING.md).
 
 ## Repositories
 
 The Portfolio Peforamnce project has a number of repositories, some important ones include:
 
-* [portfolio](http://github.com/buchen/portfolio): The Eclipse-based desktop application written in Java.
+* [portfolio](http://github.com/portfolio-performance/portfolio): The Eclipse-based desktop application written in Java.
 * [portfolio-help](https://github.com/portfolio-performance/portfolio-help): The German help pages
 * [homepage](https://github.com/portfolio-performance/homepage): The homepage hosted at <https://www.portfolio-performance.info>
