@@ -4,7 +4,7 @@ Track and evaluate the performance of your investment portfolio across stocks, c
 
 ## Get started!
 
-To learn more about Portfolio Performance, see <https://www.portfolio-performance.info>.
+To learn more about Portfolio Performance, see <https://www.portfolio-performance.info/en>.
 
 * [Forum](https://forum.portfolio-performance.info/)
 * [Help Page (German)](https://help.portfolio-performance.info/)
