@@ -8,7 +8,7 @@ To learn more about Portfolio Performance, see <https://www.portfolio-performanc
 
 * [Forum](https://forum.portfolio-performance.info/)
 * [Help Page (German)](https://help.portfolio-performance.info/)
-* [Releases and Changelog](https://github.com/buchen/portfolio/releases)
+* [Releases and Changelog](https://github.com/portfolio-performance/portfolio/releases)
 
 ## Get involved!
 
