@@ -21,3 +21,8 @@ The Portfolio Peforamnce project has a number of repositories, some important on
 * [portfolio](http://github.com/portfolio-performance/portfolio): The Eclipse-based desktop application written in Java.
 * [portfolio-help](https://github.com/portfolio-performance/portfolio-help): The German help pages
 * [homepage](https://github.com/portfolio-performance/homepage): The homepage hosted at <https://www.portfolio-performance.info>
+
+## Social media channels and fan projects
+
+* [WhatApp](https://whatsapp.com/channel/0029VaEkc9dBKfi3KLlGqI2V): The official channel about news and updates
+* [Facebook](https://www.facebook.com/groups/153418212646891/?mibextid=oMANbw): Portfolio Performance Community
