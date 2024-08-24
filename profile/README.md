@@ -16,7 +16,7 @@ You can join the fun by following our [contributing guide](https://github.com/po
 
 ## Repositories
 
-The Portfolio Peforamnce project has a number of repositories, some important ones include:
+The Portfolio Performance project has a number of repositories, some important ones include:
 
 * [portfolio](http://github.com/portfolio-performance/portfolio): The Eclipse-based desktop application written in Java.
 * [portfolio-help](https://github.com/portfolio-performance/portfolio-help): The manual (Markdown, mkdocs)
